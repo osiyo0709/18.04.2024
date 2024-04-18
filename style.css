@@ -1,0 +1,20 @@
+.rasm1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgb(221,221,217);
+    background-image: url(e50b854fd62dc64b4058f55fd79abf5a.jpg);
+    background-size: cover;
+    background-position: center center;
+    width: 200px;
+    height: 200px;
+    transition: all .2s ease;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.rasm1-hover{
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+}
